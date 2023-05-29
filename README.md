@@ -1,3 +1,3 @@
 # Brick-Breaker
 
-➝ A Simple Java application to play Brick Breaking.
+- A Simple Java application to play Brick Breaking.
